@@ -8,7 +8,7 @@
 
 
 
-#TRY HACK ME - EASY
+# TRY HACK ME - EASY
 
 # part1 questions:-
 
@@ -48,7 +48,7 @@ Host script results:
 |_  start_date: N/A
 
 ```
-#dirsearch
+# dirsearch
 ```
 
 ```
@@ -86,7 +86,7 @@ Grew worse on a bright and breezy Friday, Died on a grey and glorious Saturday, 
 ```
 according to the previous one (JD@anthem.com)SG
 
-#part2:-
+# part2:-
 
 1. What is flag 1?
 A. THM{L0L_WH0_US3S_M3T4}
@@ -119,7 +119,7 @@ A. THM{L0L_WH0_D15}
 in profile
 ```
 
-#part3:-
+# part3:-
 
 //It is really interesting 
 
